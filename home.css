@@ -1,0 +1,21 @@
+h1{
+	font-size: 100px;
+	text-align: center;
+	font-family: 50px;
+	text-shadow: 10px 15px 17px blue;
+	text-shadow: 13px 18px 19px goldenrod;
+}
+.home{
+	display: initial;
+	padding: 20px;
+	font-family: sans-serif;
+}
+a{
+	text-decoration:none;
+    color: red;
+}
+a:hover{
+text-decoration: underline;
+font-size: 30px;
+color: black
+}
